@@ -5,9 +5,9 @@ Welcome to the Upshift Reddit Creator Program! We are looking for talented Reddi
 ## 🚀 How to Get Started
 
 1. **Join the Discord:**
-   Join the Upshift Creator Discord to learn everything you need to get started: [discord.gg/HGsWPTRmp](https://discord.gg/HGsWPTRmp)
+   Join the Upshift Creator Discord to learn everything you need to get started: <a href="https://discord.gg/HGsWPTRmp" target="_blank">discord.gg/HGsWPTRmp</a>
 2. **Read the Guide & Register:** 
-   Go to our official creator portal: [joinupshift.com/creator-program/reddit](https://www.joinupshift.com/creator-program/reddit) to register. Make sure you read the [Virality Guide](https://app.notion.com/p/Reddit-Marketing-Tutorial-for-Upshift-App-283e593666a98072b125d6599ff9df73?source=copy_link) which provides everything you need to go viral.
+   Go to our official creator portal: <a href="https://www.joinupshift.com/creator-program/reddit" target="_blank">joinupshift.com/creator-program/reddit</a> to register. Make sure you read the <a href="https://app.notion.com/p/Reddit-Marketing-Tutorial-for-Upshift-App-283e593666a98072b125d6599ff9df73?source=copy_link" target="_blank">Virality Guide</a> which provides everything you need to go viral.
 3. **Get the Mock App (via TestFlight):**
    Access the special mock version of Upshift through our TestFlight link (provided in the Discord/portal). This version is designed specifically for you to generate perfect screenshots—you can easily fake stats like streaks and screen times to make your posts highly engaging and viral.
 4. **Create & Submit:**
