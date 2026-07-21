@@ -6,7 +6,7 @@ It's super easy — we’ve already achieved over **5 million** views from just 
 ## 🚀 How to Get Started
 
 1. **Join the Discord:**
-   Join the Upshift Creator Discord to learn everything you need to get started: <a href="[https://discord.gg/HGsWPTRmp](https://discord.gg/xkbz4FsTJh)" target="_blank">discord.gg/HGsWPTRmp</a>
+   Join the Upshift Creator Discord to learn everything you need to get started: <a href="https://discord.gg/xkbz4FsTJh" target="_blank">discord.gg/HGsWPTRmp</a>
 2. **Read the Guide & Register:** 
    Go to our official creator portal: <a href="https://www.joinupshift.com/creator-program/reddit" target="_blank">joinupshift.com/creator-program/reddit</a> to register. Make sure you read the <a href="https://app.notion.com/p/Reddit-Marketing-Tutorial-for-Upshift-App-283e593666a98072b125d6599ff9df73?source=copy_link" target="_blank">Virality Guide</a> which provides everything you need to go viral.
 3. **Get the Mock App (via TestFlight):**
