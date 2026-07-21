@@ -16,7 +16,7 @@ It's super easy — we’ve already achieved over **5 million** views from just 
 5. **Earn:**
    Get paid monthly based on your verified post engagement and views.
 ## 💰 Payout Structure
-We use a cumulative bonus structure based on verified views per post:
+We use a cumulative payment structure based on verified views per post:
 
 - 40K Views → $10
 - 200K Views → $20 total
