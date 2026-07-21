@@ -35,5 +35,6 @@ To ensure the success of the campaign and your freelancers' efforts, please adhe
 *   **No Spamming:** Do not mass-post the same promotional text across dozens of subreddits. This will get accounts banned and harm the brand's reputation.
 *   **Focus on Value:** Posts should provide value to the reader even if they don't click the link. Offer actionable advice or share a relatable struggle.
 *   **Notion:** You can find everything important and answers to all your questions in Notion, if not contact us at discord
+*   **App store link:** https://apps.apple.com/us/app/upshift-1-productivity-app/id6749509316
 
 
