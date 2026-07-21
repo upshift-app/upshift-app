@@ -14,7 +14,18 @@ Welcome to the Upshift Reddit Creator Program! We are looking for talented Reddi
    Create posts and share Upshift in relevant subreddits. Submit your Reddit posts through our portal to track your performance.
 5. **Earn:**
    Get paid monthly based on your verified post engagement and views.
+## 💰 Payout Structure
+We use a cumulative bonus structure based on verified views per post:
 
+- 40K Views → $10
+- 200K Views → $20 total
+- 500K Views → $50 total
+
+#### Payment Details:
+
+Payments are made monthly via PayPal (strongly preferred).
+Cash App is available as a backup, but it’s less reliable and payments can be delayed.
+You will be paid as long as your posts follow the campaign guidelines and reach the required view thresholds.
 ## 📋 Campaign Guidelines & Important Info
 
 To ensure the success of the campaign and your freelancers' efforts, please adhere to the following guidelines:
