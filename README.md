@@ -2,6 +2,7 @@
 
 Welcome to the Upshift Reddit Creator Program! We are looking for talented Reddit marketers to help us spread the word about **Upshift, the #1 Productivity App**. 
 
+It's super easy — we’ve already achieved over **5 million** views from just 2 accounts in a short period of time. Now we’re scaling up and looking for more creators to join us!
 ## 🚀 How to Get Started
 
 1. **Join the Discord:**
